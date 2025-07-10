@@ -12,14 +12,10 @@ The collected data includes descriptive statistics, hypothesis testing, and regr
 
 ## Kullanılan Araçlar ve Yöntemler / Tools and Methods
 
-- R / RMarkdown ile analiz ve raporlama  
-- Data analysis and reporting using R / RMarkdown  
+- R / RMarkdown ile analiz ve raporlama  /   Data analysis and reporting using R / RMarkdown
 
-- Temel istatistiksel hesaplamalar  
-- Basic statistical computations  
-
-- Güven aralıkları ve hipotez testleri  
-- Confidence intervals and hypothesis testing  
-
-- Korelasyon ve regresyon analizleri  
-- Correlation and regression analyses  
+- Temel istatistiksel hesaplamalar  /  Basic statistical computations
+  
+- Güven aralıkları ve hipotez testleri  /  - Confidence intervals and hypothesis testing
+  
+- Korelasyon ve regresyon analizleri  /  - Correlation and regression analyses 
